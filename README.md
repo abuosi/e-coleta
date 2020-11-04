@@ -35,9 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
+Desenvolvido na semana Omnistack da [Rocketseat](https://rocketseat.com.br/).
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/75KZglF9SIquXj4f3yZBRI/e-coleta). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🤔 Como contribuir
 
@@ -52,6 +54,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
